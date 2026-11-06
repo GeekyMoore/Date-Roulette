@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Quinn">
+  <circle cx="32" cy="32" r="32" fill="#e8f0e7"/>
+  <ellipse cx="32" cy="54" rx="18" ry="14" fill="#6e8f86"/>
+  <circle cx="32" cy="29" r="13" fill="#f3d2c4"/>
+  <path d="M18 30c1-12 27-12 28 1-2-4-8-7-14-7s-12 3-14 6z" fill="#8a5a32"/>
+  <circle cx="27" cy="29" r="1.6" fill="#30282b"/>
+  <circle cx="37" cy="29" r="1.6" fill="#30282b"/>
+  <path d="M27 35h10" fill="none" stroke="#30282b" stroke-width="1.4" stroke-linecap="round"/>
+</svg>

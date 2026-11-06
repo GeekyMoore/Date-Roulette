@@ -1,2 +1,12 @@
-# Date-Roulette
-Simple dating activity app where every illusion of choice secretly leads to the exact same outcome. Provides exportable image to share with your bae.
+# Date Roulette
+
+A joke date picker. Choose any number of big, ambitious dates. The official result is always the same: coffee or beer.
+
+Download the result as an image and send it along.
+
+## Run
+
+```bash
+bun install
+bun dev
+```
